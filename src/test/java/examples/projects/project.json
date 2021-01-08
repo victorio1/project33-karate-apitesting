@@ -1,0 +1,9 @@
+{
+  "project": {
+    "name": '#(name)',
+    "identifier": '#(numberRandom)',
+    "description": '#(description)',
+    "inherit_members": '#(inherit_members)',
+    "is_public": true
+  }
+}
